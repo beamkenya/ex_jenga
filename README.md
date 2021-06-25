@@ -18,16 +18,15 @@
 
 ## Features
 
-- [x] Jenga(Equity)
-  - [ ] Send Money
-  - [ ] Send Money Queries
-  - [ ] Receive Money
-  - [ ] Receive Money Queries
-  - [ ] Buy Goods, Pay Bills, Get Airtime
-  - [ ] Airtime
-  - [ ] Reg Tech: KYC, AML, & CDD API
-  - [ ] Account Services
-  - [ ] Forex Rates
+- [x] Send Money
+- [x] Send Money Queries
+- [ ] Receive Money
+- [ ] Receive Money Queries
+- [ ] Buy Goods, Pay Bills, Get Airtime
+- [ ] Airtime
+- [x] Reg Tech: KYC, AML, & CDD API
+- [ ] Account Services
+- [ ] Forex Rates
 
 ## Installation
 
